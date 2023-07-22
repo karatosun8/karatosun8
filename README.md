@@ -1,4 +1,4 @@
- [![MasterHead](https://media.istockphoto.com/id/1438722117/tr/vekt%C3%B6r/internet-digital-security-technology-concept-for-business-background-lock-on-circuit-board.jpg?s=612x612&w=0&k=20&c=wkIaDdll7IpbqYPr9OQbgh-JFJfArFGrO-7fU890cPk=)
+[![MasterHead](https://media.istockphoto.com/id/1438722117/tr/vekt%C3%B6r/internet-digital-security-technology-concept-for-business-background-lock-on-circuit-board.jpg?s=612x612&w=0&k=20&c=wkIaDdll7IpbqYPr9OQbgh-JFJfArFGrO-7fU890cPk=)
 
 <h1 align="center">Hi 👋, I'm Sefa KARATOSUN</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
@@ -26,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karatosun8&show_icons=true&locale=en&layout=compact" alt="karatosun8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karatosun8&show_icons=true&locale=en" alt="karatosun8" /></p>
+
+
+![snake gif](https://github.com/karatosun8/karatosun8/blob/output/github-contribution-grid-snake.gif)
