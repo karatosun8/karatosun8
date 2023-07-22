@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/1438722117/tr/vekt%C3%B6r/internet-digital-security-technology-concept-for-business-background-lock-on-circuit-board.jpg?s=612x612&w=0&k=20&c=wkIaDdll7IpbqYPr9OQbgh-JFJfArFGrO-7fU890cPk=)
+[![MasterHead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
 
 <h1 align="center">Hi 👋, I'm Sefa KARATOSUN</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
