@@ -1,4 +1,4 @@
-[![MasterHead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
+![MasterHead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
 
 <h1 align="center">Hi 👋, I'm Sefa KARATOSUN</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
