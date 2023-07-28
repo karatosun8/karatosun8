@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karatosun8&show_icons=true&locale=en" alt="karatosun8" /></p>
 
 
-![snake gif](https://github.com/karatosun8/karatosun8/blob/output/github-contribution-grid-snake.gif)
+
