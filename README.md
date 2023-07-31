@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **html css react javascript bootstrap sass**
+- 🌱 I’m currently learning **html css react javascript bootstrap sass tailwind**
 
 - 💬 Ask me about **My Projects**
 
